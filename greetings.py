@@ -6,4 +6,7 @@ def mat():
     for in in range(5):
 	print('Hello Mat')
 
-mat()
+
+def hello_santa(name):
+	print(f("Hello, {name}! Season's greetings from Santa!")
+
