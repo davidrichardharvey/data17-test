@@ -9,5 +9,5 @@ pprint(starship_collection.pilot_object_ids)
 pprint(starship_collection.pilot_id_dict)
 pprint(starship_collection.starship_names_dict())
 pprint(starship_collection.starship_ids_dict)
-# pprint(starship_collection.join_pilots_data())
+pprint(starship_collection.join_pilots_data())
 

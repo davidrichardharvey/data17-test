@@ -1,5 +1,6 @@
 from etl.extract import Extract
 
+
 # class that transform data into dictionaries
 class Transform(Extract):
 

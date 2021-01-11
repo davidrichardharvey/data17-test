@@ -4,6 +4,7 @@ import pymongo
 # star wars api url
 starships_url = "https://swapi.dev/api/starships"
 
+
 # class to pull info from the api
 class Extract:
     # initialisation
